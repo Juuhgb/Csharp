@@ -25,7 +25,7 @@ namespace crescente
 
 				Console.WriteLine("Digite outros dois numeros:");
 				a = Convert.ToInt32(Console.ReadLine());
-				b = Convert.ToInT32(Console.ReadLine());
+				b = Convert.ToInt32(Console.ReadLine());
 			}
 		}
 	}
