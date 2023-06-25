@@ -28,8 +28,7 @@ namespace Programa
             Console.WriteLine("Valores: ");
             for (int i = 0; i < N; i++)
             {
-                Console.Write(vet[i] + " ");
-
+                Console.Write(vet[i].ToString("F2", CI) + " ");
             }
             Console.WriteLine();
             
